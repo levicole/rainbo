@@ -1,0 +1,6 @@
+[package]
+name = "rainbo"
+version = "0.1.0"
+authors = ["Levi Kennedy <lckennedy@gmail.com>"]
+
+[dependencies]
